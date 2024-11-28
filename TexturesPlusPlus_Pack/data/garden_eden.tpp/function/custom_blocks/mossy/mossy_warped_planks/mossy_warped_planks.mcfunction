@@ -1,0 +1,1 @@
+execute unless block ^ ^ ^-0.501 warped_planks run function garden_eden.tpp:custom_blocks/mossy/mossy_warped_planks/break

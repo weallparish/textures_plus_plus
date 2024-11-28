@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "test": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:twisting_vines"
+            ]
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "garden_eden.tpp:texture_functionality/twisting_blocks/using_twisting_vines"
+    }
+  }
+        
+  

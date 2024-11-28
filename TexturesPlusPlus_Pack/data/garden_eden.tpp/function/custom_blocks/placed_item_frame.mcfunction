@@ -1,0 +1,1 @@
+return run execute as @e[tag=garden_eden.tpp.item_frame_block,distance=..1.5] at @s run function garden_eden.tpp:custom_blocks/check_placed_item_frame

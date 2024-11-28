@@ -1,0 +1,1 @@
+execute unless block ^ ^ ^-0.501 end_stone_bricks run function garden_eden.tpp:custom_blocks/cracked/cracked_end_stone_bricks/break

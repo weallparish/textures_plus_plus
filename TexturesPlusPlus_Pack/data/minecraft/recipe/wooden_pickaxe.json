@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "tag": "minecraft:planks"
+        }
+    },
+    "pattern": [
+        "XXX",
+        " # ",
+        " # "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:wooden_pickaxe",
+        "components": {
+            "minecraft:custom_data": {
+                "garden_eden.tpp.can_crack_blocks": true
+            },
+            "minecraft:food": {
+                "nutrition": 0,
+                "saturation": 0,
+                "can_always_eat": true,
+                "eat_seconds": 2147483647
+            }
+        }
+    }
+}

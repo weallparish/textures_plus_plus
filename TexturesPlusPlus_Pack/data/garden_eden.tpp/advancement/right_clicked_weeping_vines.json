@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "test": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:weeping_vines"
+            ]
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "garden_eden.tpp:texture_functionality/weeping_blocks/using_weeping_vines"
+    }
+  }
+        
+  

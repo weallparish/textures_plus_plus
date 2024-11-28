@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "test": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:pink_petals"
+            ]
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "garden_eden.tpp:texture_functionality/budding_blocks/using_pink_petals"
+    }
+  }
+        
+  

@@ -1,0 +1,2 @@
+execute if items entity @s weapon.mainhand #minecraft:pickaxes run function garden_eden.tpp:modify_tool/damage_tool
+execute unless items entity @s weapon.mainhand #minecraft:pickaxes run function garden_eden.tpp:modify_tool/decrease_count

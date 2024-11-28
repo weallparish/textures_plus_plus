@@ -1,0 +1,1 @@
+execute unless block ^ ^ ^-0.501 purpur_pillar run function garden_eden.tpp:custom_blocks/cracked/cracked_purpur_pillar/break

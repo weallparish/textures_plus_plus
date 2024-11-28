@@ -1,0 +1,1 @@
+execute unless block ^ ^ ^-0.501 gilded_blackstone run function garden_eden.tpp:custom_blocks/cracked/cracked_gilded_blackstone/break

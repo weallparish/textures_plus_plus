@@ -1,0 +1,6 @@
+function garden_eden.tpp:custom_blocks/cracked/check_placed_item_frame
+function garden_eden.tpp:custom_blocks/mossy/check_placed_item_frame
+function garden_eden.tpp:custom_blocks/budding/check_placed_item_frame
+function garden_eden.tpp:custom_blocks/weeping/check_placed_item_frame
+function garden_eden.tpp:custom_blocks/twisting/check_placed_item_frame
+return run kill @s

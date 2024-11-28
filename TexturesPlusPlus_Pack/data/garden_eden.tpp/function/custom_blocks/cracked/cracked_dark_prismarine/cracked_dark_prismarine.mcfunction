@@ -1,0 +1,1 @@
+execute unless block ^ ^ ^-0.501 dark_prismarine run function garden_eden.tpp:custom_blocks/cracked/cracked_dark_prismarine/break

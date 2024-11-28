@@ -1,0 +1,1 @@
+execute unless block ^ ^ ^-0.501 oak_wood run function garden_eden.tpp:custom_blocks/cracked/cracked_oak_wood/break

@@ -1,0 +1,2 @@
+item modify entity @s weapon.mainhand {"function":"minecraft:set_components","components":{"minecraft:food":{"nutrition": 0,"saturation": 0,"can_always_eat": true,"eat_seconds": 2147483647}}}
+item modify entity @s weapon.mainhand {"function":"minecraft:set_custom_data","tag":{"garden_eden.tpp.can_modify_blocks": true}}
