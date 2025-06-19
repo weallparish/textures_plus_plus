@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["fire_coral"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/fire_coraled_blocks/using_fire_coral"}}

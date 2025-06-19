@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.brain_coraled] run function garden_eden.tpp:custom_blocks/brain_coraled/place

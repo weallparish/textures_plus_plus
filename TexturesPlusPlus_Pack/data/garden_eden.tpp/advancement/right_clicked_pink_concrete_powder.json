@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["pink_concrete_powder"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/pink_powdery_blocks/using_pink_concrete_powder"}}

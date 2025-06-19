@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["lapis_lazuli"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/lapised_blocks/using_lapis_lazuli"}}

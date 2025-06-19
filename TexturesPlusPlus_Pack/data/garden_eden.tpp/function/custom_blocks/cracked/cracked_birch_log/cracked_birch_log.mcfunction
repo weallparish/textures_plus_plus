@@ -1,1 +1,0 @@
-execute unless block ^ ^ ^-0.501 birch_log run function garden_eden.tpp:custom_blocks/cracked/cracked_birch_log/break

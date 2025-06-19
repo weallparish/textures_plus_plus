@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["bubble_coral"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/bubble_coraled_blocks/using_bubble_coral"}}

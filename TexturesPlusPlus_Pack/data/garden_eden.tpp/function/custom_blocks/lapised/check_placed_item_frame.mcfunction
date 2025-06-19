@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.lapised] run function garden_eden.tpp:custom_blocks/lapised/place

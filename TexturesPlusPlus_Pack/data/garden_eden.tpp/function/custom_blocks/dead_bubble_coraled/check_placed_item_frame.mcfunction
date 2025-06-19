@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.dead_bubble_coraled] run function garden_eden.tpp:custom_blocks/dead_bubble_coraled/place

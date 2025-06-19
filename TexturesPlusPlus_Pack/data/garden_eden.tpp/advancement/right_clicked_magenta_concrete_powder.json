@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["magenta_concrete_powder"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/magenta_powdery_blocks/using_magenta_concrete_powder"}}

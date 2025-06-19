@@ -1,1 +1,0 @@
-execute unless block ^ ^ ^-0.501 quartz_pillar run function garden_eden.tpp:custom_blocks/cracked/cracked_quartz_pillar/break

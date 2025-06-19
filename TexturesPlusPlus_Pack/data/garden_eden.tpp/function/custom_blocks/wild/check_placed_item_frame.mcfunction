@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.wild] run function garden_eden.tpp:custom_blocks/wild/place

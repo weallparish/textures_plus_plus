@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.blue_powdery] run function garden_eden.tpp:custom_blocks/blue_powdery/place

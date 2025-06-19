@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.gilded] run function garden_eden.tpp:custom_blocks/gilded/place

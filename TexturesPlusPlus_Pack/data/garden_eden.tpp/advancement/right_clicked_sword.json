@@ -1,0 +1,22 @@
+{
+    "criteria": {
+        "test": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "minecraft:wooden_sword",
+                        "minecraft:stone_sword",
+                        "minecraft:iron_sword",
+                        "minecraft:golden_sword",
+                        "minecraft:diamond_sword",
+                        "minecraft:netherite_sword"
+                    ]
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "garden_eden.tpp:custom_blocks/using_sword"
+    }
+}

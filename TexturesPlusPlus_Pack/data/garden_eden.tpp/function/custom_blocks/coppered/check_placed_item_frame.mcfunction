@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.coppered] run function garden_eden.tpp:custom_blocks/coppered/place

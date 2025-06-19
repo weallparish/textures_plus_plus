@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["honey_block"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/honeyed_blocks/using_honey_block"}}

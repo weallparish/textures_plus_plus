@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["snow_block"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/snowy_blocks/using_snow_block"}}

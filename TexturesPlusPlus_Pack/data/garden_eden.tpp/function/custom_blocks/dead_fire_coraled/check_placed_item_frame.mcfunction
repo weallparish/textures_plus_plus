@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.dead_fire_coraled] run function garden_eden.tpp:custom_blocks/dead_fire_coraled/place

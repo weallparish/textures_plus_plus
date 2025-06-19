@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.lilac_viny] run function garden_eden.tpp:custom_blocks/lilac_viny/place

@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["amethyst_shard"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/amethysted_blocks/using_amethyst_shard"}}

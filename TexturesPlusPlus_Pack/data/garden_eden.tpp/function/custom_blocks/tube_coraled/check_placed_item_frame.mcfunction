@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.tube_coraled] run function garden_eden.tpp:custom_blocks/tube_coraled/place

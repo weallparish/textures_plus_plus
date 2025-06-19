@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["rose_bush"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/rose_viny_blocks/using_rose_bush"}}

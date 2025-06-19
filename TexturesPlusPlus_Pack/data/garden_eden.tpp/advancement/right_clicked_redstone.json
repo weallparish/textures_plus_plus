@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "test": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "redstone"
+                    ]
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "garden_eden.tpp:texture_functionality/redstoned_blocks/using_redstone"
+    }
+}

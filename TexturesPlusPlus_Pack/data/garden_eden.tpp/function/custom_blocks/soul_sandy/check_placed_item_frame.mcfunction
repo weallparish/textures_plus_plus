@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.soul_sandy] run function garden_eden.tpp:custom_blocks/soul_sandy/place

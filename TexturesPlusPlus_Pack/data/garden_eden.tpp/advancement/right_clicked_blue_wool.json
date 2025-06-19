@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["blue_wool"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/blue_wooly_blocks/using_blue_wool"}}

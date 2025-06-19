@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["raw_copper"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/coppered_blocks/using_raw_copper"}}

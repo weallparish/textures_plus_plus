@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.pale_mossy] run function garden_eden.tpp:custom_blocks/pale_mossy/place

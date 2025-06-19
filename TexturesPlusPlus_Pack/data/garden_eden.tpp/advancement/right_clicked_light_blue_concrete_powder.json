@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["light_blue_concrete_powder"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/light_blue_powdery_blocks/using_light_blue_concrete_powder"}}

@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["cobweb"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/webbed_blocks/using_cobweb"}}

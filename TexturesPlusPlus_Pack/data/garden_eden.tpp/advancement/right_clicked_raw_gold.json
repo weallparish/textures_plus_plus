@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["raw_gold"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/gilded_blocks/using_raw_gold"}}

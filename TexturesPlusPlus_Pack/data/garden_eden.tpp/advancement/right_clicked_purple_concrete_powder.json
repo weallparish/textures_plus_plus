@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["purple_concrete_powder"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/purple_powdery_blocks/using_purple_concrete_powder"}}

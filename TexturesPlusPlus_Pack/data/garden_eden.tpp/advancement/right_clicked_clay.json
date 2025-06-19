@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["clay"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/clayed_blocks/using_clay"}}

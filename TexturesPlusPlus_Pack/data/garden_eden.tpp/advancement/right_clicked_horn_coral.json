@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["horn_coral"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/horn_coraled_blocks/using_horn_coral"}}

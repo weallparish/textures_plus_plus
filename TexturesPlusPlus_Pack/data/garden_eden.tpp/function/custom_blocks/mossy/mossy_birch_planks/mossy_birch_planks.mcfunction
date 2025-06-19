@@ -1,1 +1,0 @@
-execute unless block ^ ^ ^-0.501 birch_planks run function garden_eden.tpp:custom_blocks/mossy/mossy_birch_planks/break

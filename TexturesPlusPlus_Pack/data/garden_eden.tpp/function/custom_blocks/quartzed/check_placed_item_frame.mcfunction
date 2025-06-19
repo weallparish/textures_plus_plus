@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.quartzed] run function garden_eden.tpp:custom_blocks/quartzed/place

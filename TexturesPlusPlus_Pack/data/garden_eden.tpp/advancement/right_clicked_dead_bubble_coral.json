@@ -1,0 +1,1 @@
+{"criteria": {"test": {"trigger": "minecraft:using_item","conditions": {"item": {"items": ["dead_bubble_coral"]}}}},"rewards": {"function": "garden_eden.tpp:texture_functionality/dead_bubble_coraled_blocks/using_dead_bubble_coral"}}

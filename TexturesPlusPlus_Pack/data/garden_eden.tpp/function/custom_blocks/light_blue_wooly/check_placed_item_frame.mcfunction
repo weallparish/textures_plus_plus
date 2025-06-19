@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.light_blue_wooly] run function garden_eden.tpp:custom_blocks/light_blue_wooly/place

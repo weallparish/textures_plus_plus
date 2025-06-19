@@ -1,1 +1,0 @@
-execute unless block ^ ^ ^-0.501 nether_bricks run function garden_eden.tpp:custom_blocks/cracked/cracked_nether_bricks/break

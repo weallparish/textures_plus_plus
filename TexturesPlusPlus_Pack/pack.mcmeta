@@ -1,6 +1,10 @@
 {
   "pack": {
-    "description": "Adds texture variants to more blocks.",
-    "pack_format": 48
+    "description": {
+      "text": "By Garden(Eden)",
+      "type": "text",
+      "color": "dark_green"
+    },
+    "pack_format": 71
   }
-}   
+}

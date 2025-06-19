@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.ancient_debrised] run function garden_eden.tpp:custom_blocks/ancient_debrised/place

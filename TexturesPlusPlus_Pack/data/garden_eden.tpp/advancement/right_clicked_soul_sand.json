@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "test": {
+            "trigger": "minecraft:using_item",
+            "conditions": {
+                "item": {
+                    "items": [
+                        "soul_sand"
+                    ]
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "garden_eden.tpp:texture_functionality/soul_sandy_blocks/using_soul_sand"
+    }
+}

@@ -1,0 +1,1 @@
+execute as @s[tag=garden_eden.tpp.redstoned] run function garden_eden.tpp:custom_blocks/redstoned/place
