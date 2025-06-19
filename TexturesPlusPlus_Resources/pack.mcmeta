@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 34,
-    "description": "Resources for Textures++ datapack."
+    "description": {
+      "text": "By Garden(Eden)",
+      "type": "text",
+      "color": "dark_green"
+    },
+    "pack_format": 55
   }
 }

@@ -1,0 +1,554 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/vine",
+            "tints": [
+                {
+                    "type": "minecraft:constant",
+                    "value": [
+                        0.282,
+                        0.71,
+                        0.094
+                    ]
+                }
+            ]
+        },
+        "cases": [
+            {
+                "when": "budding",
+                "model": {
+                    "type": "model",
+                    "model": "block/budding"
+                }
+            },
+            {
+                "when": "gravelly",
+                "model": {
+                    "type": "model",
+                    "model": "block/gravelly"
+                }
+            },
+            {
+                "when": "sandy",
+                "model": {
+                    "type": "model",
+                    "model": "block/sandy"
+                }
+            },
+            {
+                "when": "red_sandy",
+                "model": {
+                    "type": "model",
+                    "model": "block/red_sandy"
+                }
+            },
+            {
+                "when": "soul_sandy",
+                "model": {
+                    "type": "model",
+                    "model": "block/soul_sandy"
+                }
+            },
+            {
+                "when": "snowy",
+                "model": {
+                    "type": "model",
+                    "model": "block/snowy"
+                }
+            },
+            {
+                "when": "mossy",
+                "model": {
+                    "type": "model",
+                    "model": "block/moss"
+                }
+            },
+            {
+                "when": "muddy",
+                "model": {
+                    "type": "model",
+                    "model": "block/muddy"
+                }
+            },
+            {
+                "when": "rooted",
+                "model": {
+                    "type": "model",
+                    "model": "block/roots"
+                }
+            },
+            {
+                "when": "slimy",
+                "model": {
+                    "type": "model",
+                    "model": "block/slimy"
+                }
+            },
+            {
+                "when": "honeyed",
+                "model": {
+                    "type": "model",
+                    "model": "block/honeyed"
+                }
+            },
+            {
+                "when": "webbed",
+                "model": {
+                    "type": "model",
+                    "model": "block/webbed"
+                }
+            },
+            {
+                "when": "twisting",
+                "model": {
+                    "type": "model",
+                    "model": "block/twisting"
+                }
+            },
+            {
+                "when": "weeping",
+                "model": {
+                    "type": "model",
+                    "model": "block/weeping"
+                }
+            },
+            {
+                "when": "pale_mossy",
+                "model": {
+                    "type": "model",
+                    "model": "block/pale_moss"
+                }
+            },
+            {
+                "when": "wild",
+                "model": {
+                    "type": "model",
+                    "model": "block/wild"
+                }
+            },
+            {
+                "when": "lilac_viny",
+                "model": {
+                    "type": "model",
+                    "model": "block/lilac_viny"
+                }
+            },
+            {
+                "when": "rose_viny",
+                "model": {
+                    "type": "model",
+                    "model": "block/rose_viny"
+                }
+            },
+            {
+                "when": "peony_viny",
+                "model": {
+                    "type": "model",
+                    "model": "block/peony_viny"
+                }
+            },
+            {
+                "when": "pitcher_viny",
+                "model": {
+                    "type": "model",
+                    "model": "block/pitcher_viny"
+                }
+            },
+            {
+                "when": "brain_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/brain_coraled"
+                }
+            },
+            {
+                "when": "dead_brain_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/dead_brain_coraled"
+                }
+            },
+            {
+                "when": "bubble_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/bubble_coraled"
+                }
+            },
+            {
+                "when": "dead_bubble_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/dead_bubble_coraled"
+                }
+            },
+            {
+                "when": "fire_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/fire_coraled"
+                }
+            },
+            {
+                "when": "dead_fire_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/dead_fire_coraled"
+                }
+            },
+            {
+                "when": "horn_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/horn_coraled"
+                }
+            },
+            {
+                "when": "dead_horn_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/dead_horn_coraled"
+                }
+            },
+            {
+                "when": "tube_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/tube_coraled"
+                }
+            },
+            {
+                "when": "dead_tube_coraled",
+                "model": {
+                    "type": "model",
+                    "model": "block/dead_tube_coraled"
+                }
+            },
+            {
+                "when": "dirty",
+                "model": {
+                    "type": "model",
+                    "model": "block/dirty"
+                }
+            },
+            {
+                "when": "clayed",
+                "model": {
+                    "type": "model",
+                    "model": "block/clayed"
+                }
+            },
+            {
+                "when": "coaled",
+                "model": {
+                    "type": "model",
+                    "model": "block/coaled"
+                }
+            },
+            {
+                "when": "ironed",
+                "model": {
+                    "type": "model",
+                    "model": "block/ironed"
+                }
+            },
+            {
+                "when": "coppered",
+                "model": {
+                    "type": "model",
+                    "model": "block/coppered"
+                }
+            },
+            {
+                "when": "gilded",
+                "model": {
+                    "type": "model",
+                    "model": "block/gilded"
+                }
+            },
+            {
+                "when": "nether_gilded",
+                "model": {
+                    "type": "model",
+                    "model": "block/nether_gilded"
+                }
+            },
+            {
+                "when": "emeralded",
+                "model": {
+                    "type": "model",
+                    "model": "block/emeralded"
+                }
+            },
+            {
+                "when": "lapised",
+                "model": {
+                    "type": "model",
+                    "model": "block/lapised"
+                }
+            },
+            {
+                "when": "diamonded",
+                "model": {
+                    "type": "model",
+                    "model": "block/diamonded"
+                }
+            },
+            {
+                "when": "redstoned",
+                "model": {
+                    "type": "model",
+                    "model": "block/redstoned"
+                }
+            },
+            {
+                "when": "quartzed",
+                "model": {
+                    "type": "model",
+                    "model": "block/quartzed"
+                }
+            },
+            {
+                "when": "amethysted",
+                "model": {
+                    "type": "model",
+                    "model": "block/amethysted"
+                }
+            },
+            {
+                "when": "ancient_debrised",
+                "model": {
+                    "type": "model",
+                    "model": "block/ancient_debrised"
+                }
+            },
+            {
+                "when": "black_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/black_powdery"
+                }
+            },
+            {
+                "when": "brown_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/brown_powdery"
+                }
+            },
+            {
+                "when": "blue_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/blue_powdery"
+                }
+            },
+            {
+                "when": "cyan_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/cyan_powdery"
+                }
+            },
+            {
+                "when": "gray_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/gray_powdery"
+                }
+            },
+            {
+                "when": "green_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/green_powdery"
+                }
+            },
+            {
+                "when": "light_blue_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/light_blue_powdery"
+                }
+            },
+            {
+                "when": "light_gray_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/light_gray_powdery"
+                }
+            },
+            {
+                "when": "lime_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/lime_powdery"
+                }
+            },
+            {
+                "when": "magenta_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/magenta_powdery"
+                }
+            },
+            {
+                "when": "orange_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/orange_powdery"
+                }
+            },
+            {
+                "when": "pink_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/pink_powdery"
+                }
+            },
+            {
+                "when": "purple_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/purple_powdery"
+                }
+            },
+            {
+                "when": "red_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/red_powdery"
+                }
+            },
+            {
+                "when": "white_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/white_powdery"
+                }
+            },
+            {
+                "when": "yellow_powdery",
+                "model": {
+                    "type": "model",
+                    "model": "block/yellow_powdery"
+                }
+            },
+            {
+                "when": "black_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/black_wooly"
+                }
+            },
+            {
+                "when": "brown_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/brown_wooly"
+                }
+            },
+            {
+                "when": "blue_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/blue_wooly"
+                }
+            },
+            {
+                "when": "cyan_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/cyan_wooly"
+                }
+            },
+            {
+                "when": "gray_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/gray_wooly"
+                }
+            },
+            {
+                "when": "green_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/green_wooly"
+                }
+            },
+            {
+                "when": "light_blue_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/light_blue_wooly"
+                }
+            },
+            {
+                "when": "light_gray_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/light_gray_wooly"
+                }
+            },
+            {
+                "when": "lime_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/lime_wooly"
+                }
+            },
+            {
+                "when": "magenta_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/magenta_wooly"
+                }
+            },
+            {
+                "when": "orange_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/orange_wooly"
+                }
+            },
+            {
+                "when": "pink_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/pink_wooly"
+                }
+            },
+            {
+                "when": "purple_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/purple_wooly"
+                }
+            },
+            {
+                "when": "red_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/red_wooly"
+                }
+            },
+            {
+                "when": "white_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/white_wooly"
+                }
+            },
+            {
+                "when": "yellow_wooly",
+                "model": {
+                    "type": "model",
+                    "model": "block/yellow_wooly"
+                }
+            }
+        ]
+    }
+}
